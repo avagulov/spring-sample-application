@@ -1,0 +1,6 @@
+spring:
+  freemarker:
+    enabled: true
+    cache: false
+  thymeleaf:
+    enabled: false
